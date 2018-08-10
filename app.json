@@ -1,8 +1,9 @@
 {
   "expo": {
-    "sdkVersion": "16.0.0",
+    "sdkVersion": "19.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/images/logos/icon.png",
-    "name": "SpockX"
+    "name": "SpockX",
+    "description": "The Spock Market of Things"
   }
 }
